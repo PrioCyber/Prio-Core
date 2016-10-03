@@ -1,2 +1,2 @@
 # Prio-Core
-Prio-Core is a GNU/Linux Docker for defence security platform, with feature can create report and visibility in real time for Security Analysis
+Prio-Core is a GNU/Linux Distro based on Debian for Defence Security Platform, with can create reports and visibility in real time for traffic in a network TAP, Port SPAN or Ehterner promisc interface. The tool support SSL inspection for traffic, packet capture and mprio-rxtx tpc/udp kernel module can replicate specific traffic and mprio-mask for masking sensible data for any connection.
